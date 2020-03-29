@@ -1,0 +1,15 @@
+.material-icons{
+    font-size: medium;
+}
+
+.past{
+    background-color:rgb(255, 83, 112)
+}
+
+.future{
+    background-color:rgb(83, 255, 126)
+}
+
+.current{
+    background-color: rgb(83, 255, 255);
+}
